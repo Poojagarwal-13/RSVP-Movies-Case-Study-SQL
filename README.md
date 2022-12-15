@@ -16,6 +16,7 @@ For your convenience, the entire analytics process has been divided into four se
 Also, write the executive summary consisting of the important insights derived from the data and some recommendations to be given to RSVP movies for their project.
  
 About Data:
+
 The SQL script to load the dataset is provided by the institute.
 
 Note:
